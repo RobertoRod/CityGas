@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">City Gas</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_info_gasolinera">InfoGasolinera</string>
+</resources>
